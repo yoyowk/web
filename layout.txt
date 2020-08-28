@@ -1,0 +1,7 @@
+웹문서로 박스블럭이 중요하다
+html 뼈대를 만들고
+css로 디자인을 한다.
+javascript & jQuery로 제어(이벤트, 애니메이션...)를 한다.
+
+webapp: jQuery ....
+
