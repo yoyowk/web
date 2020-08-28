@@ -5,3 +5,30 @@ javascript & jQuery로 제어(이벤트, 애니메이션...)를 한다.
 
 webapp: jQuery ....
 
+
+
+다음날 파일 수정합니다
+냠냠냠 개발공부중
+
+react 공부하기
+vue 공부하기
+php 공부하기
+mysql 공부하기
+git 공부하기
+java 공부하기
+jsp 공부하기
+node.js공부하기
+
+
+[맛볼것들]
+react 공부하기
+vue 공부하기
+node.js공부하기
+cordova 공부하기
+phonegap 공부하기
+
+
+
+
+
+
